@@ -53,6 +53,8 @@ public class Main {
         double importeTotal = numNoches * precioNoche + cargoExtra;
 
         System.out.println("El importe total de tu estadía són " + importeTotal + " euros.");
+
+        // modificacion 2
     }
 
 }
